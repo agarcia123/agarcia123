@@ -1,7 +1,7 @@
 # Hi, wlecome to my github nook
 - 👋 Hi, I’m @agarcia123
 - 👀 I’m interested react projects
-- 🌱 I’m currently learning react with typescript
+- 🌱 I’m currently learning react with typescript and playwright
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: snbed an email to garciaaugusto@gmail.com
 
